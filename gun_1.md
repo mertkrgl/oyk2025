@@ -13,7 +13,7 @@
 3. **Git, Gitflow, Semver ile Versiyonlama ve Sürüm Kontrolü**
     - **Git & Gitflow**
         - Git'in önemi ve Gitflow ile daha hızlı ve sağlıklı versiyonlama yapılabileceği hakkında örnekler. [Gitflow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
-         ![Gitflow](gitflow.png)
+         ![Gitflow](assets/gitflow.png)
     - **Semver**
         - Semantik Versiyonlamanın önemi ve nasıl kullanıldığı. [Semver](https://semver.org/lang/tr/)
 
@@ -25,8 +25,8 @@
 
 6. **HTTP Yaşam Döngüsü ve Temel Kavramlar**
     - Rack Middleware, REST ve RESTful, MVC hakkında bilgiler.
-    ![Note](note.jpeg)
-    ![MVC](MVC.jpg)
+    ![Note](assets/note.jpeg)
+    ![MVC](assets/MVC.jpg)
 
 7. **IRB Konsolu ile Ruby Kullanımı**
     - IRB ile interaktif Ruby kodlarının yazımı. İlk oluşturulan Rails projesindeki veriler ile örnekler.

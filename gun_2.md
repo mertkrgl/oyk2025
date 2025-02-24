@@ -2,7 +2,7 @@
 
 Bu notlar, kampta yaptığımız [Proje](https://github.com/azimcan/LKD2025-blog) üzerinden alınmıştır.
 
-![Schema](db_schema.png)
+![Schema](assets/db_schema.png)
 Proje bu şemaya göre hazırlandı.
 
 ---
